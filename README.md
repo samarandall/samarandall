@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samarandall
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in DLT
-- 🌱 I’m currently learning Git and blockchains
+- 🌱 I’m currently learning Git and SWE
 - 📫 How to reach me samrandall100@gmail.com
 
 <!---
